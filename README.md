@@ -36,7 +36,7 @@ How to use the ezc interactive learning game
 2) Make sure you have unity installed, if not, head over to Unity's page and install it
 3) Run the unity file to play the game
 
-#Any Questions? Please send an email to jaykatyan@gmail.com
+#Any Questions? Please send an email to jaykatyan@gmail.com or info@maymandi.com
 
 
 
