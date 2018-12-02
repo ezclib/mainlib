@@ -76,8 +76,8 @@ double area(int a, int b){
     }
    return 0;
 }
-double areapoly(int a, int b, int c){
-    double value1 = (a*b*c) / 2;
+double areapoly(double a, double b){
+    double value1 = (a*b) / 2;
     return value1;
 }
 
@@ -229,8 +229,8 @@ double zona(int a, int b){
     }
    return 0;
 }
-double zonapoly(int a, int b, int c){
-    double value1 = (a*b*c) / 2;
+double zonapoly(int a, int b){
+    double value1 = (a*b) / 2;
     return value1;
 }
 
@@ -388,8 +388,8 @@ double surface(int a, int b){
     }
    return 0;
 }
-double surfacepoly(int a, int b, int c){
-    double value1 = (a*b*c) / 2;
+double surfacepoly(int a, int b){
+    double value1 = (a*b) / 2;
     return value1;
 }
 
@@ -546,8 +546,8 @@ double bereich(int a, int b){
     }
    return 0;
 }
-double bereichpoly(int a, int b, int c){
-    double value1 = (a*b*c) / 2;
+double bereichpoly(int a, int b){
+    double value1 = (a*b) / 2;
     return value1;
 }
 
@@ -699,8 +699,8 @@ double settore(int a, int b){
     }
    return 0;
 }
-double settorepoly(int a, int b, int c){
-    double value1 = (a*b*c) / 2;
+double settorepoly(int a, int b){
+    double value1 = (a*b) / 2;
     return value1;
 }
 
@@ -854,8 +854,8 @@ double omrade(int a, int b){
     }
    return 0;
 }
-double omradepoly(int a, int b, int c){
-    double value1 = (a*b*c) / 2;
+double omradepoly(int a, int b){
+    double value1 = (a*b) / 2;
     return value1;
 }
 
